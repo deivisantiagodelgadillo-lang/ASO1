@@ -12,7 +12,7 @@ Este repositorio contiene el material del curso de Implantació de sistemes oper
 
 Este repositorio está preparado para ser publicado con GitHub Pages.  
 Puedes ver la versión web pública en:  
-https://deivisantiagodelgadillo-lang.github.io/ISO-pj1/
+https://deivisantiagodelgadillo-lang.github.io/ASO1/
 
 ## Licencia
 
